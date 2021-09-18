@@ -45,7 +45,7 @@ $root_path
 
 ## Data
 
-- Google drive: [[here](https://drive.google.com/drive/folders/1c8dtQUZWjgXzx13lMWF_x3GPogIbsSfl?usp=sharing)]
+- Unable to provide due to privacy concerns
 
 ## Run
 
